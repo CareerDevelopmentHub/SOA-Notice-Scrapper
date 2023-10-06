@@ -68,6 +68,6 @@ If you want to help us review and merge pull requests from other contributors, y
 
 ## Contact Us
 
-If you have any questions or comments about SOA-Notice-Scrapper, please feel free to contact us at soa.notice.scrapper@gmail.com.
+If you have any questions or comments about SOA-Notice-Scrapper, please feel free to contact us at subhransuchoudhury00@gmail.com.
 
 We appreciate your contributions and support!
